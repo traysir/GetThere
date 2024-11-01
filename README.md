@@ -1,4 +1,4 @@
-# Media Recommendation and Analytics Platform
+# Media Recommendation and Analytics Platform | Getthere
 
 ## Overview
 
