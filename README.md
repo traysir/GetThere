@@ -15,7 +15,7 @@ This project is a **Media Recommendation and Analytics Platform** that offers pe
 ## Technologies Used
 
 - **Backend**: Django, Django REST Framework
-- **Database**: PostgreSQL (production) or SQLite (development)
+- **Database**: SQLite
 - **Frontend**: Integratable with React or other frontend frameworks
 - **Admin Interface**: Django’s built-in admin interface
 
