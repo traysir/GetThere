@@ -20,3 +20,5 @@ This project is a **Media Recommendation and Analytics Platform** that offers pe
 - **Admin Interface**: Django’s built-in admin interface
 
 # *Repository is not yet complete*
+
+# - Bayden Blackwell
