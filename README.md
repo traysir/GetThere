@@ -19,9 +19,4 @@ This project is a **Media Recommendation and Analytics Platform** that offers pe
 - **Frontend**: Integratable with React or other frontend frameworks
 - **Admin Interface**: Django’s built-in admin interface
 
-## Getting Started
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/media-recommendation-platform.git
-   cd media-recommendation-platform
+# *Repository is not yet complete*
