@@ -1,8 +1,8 @@
-# Media Recommendation and Analytics Platform | Getthere
+# Media Recommendation and Analytics Tool | Getthere
 
 ## Overview
 
-This project is a **Media Recommendation and Analytics Platform** that offers personalized media suggestions and insights across various categories, including games, movies, sports events, and travel destinations. Built using Django and Django REST Framework, this platform enables users to browse media, rate items, and receive recommendations based on their preferences.
+This project is a **Media Recommendation and Analytics Tool** that offers personalized media suggestions and insights across various categories, including games, movies, sports events, and travel destinations. Built using Django and Django REST Framework, this tool enables users to browse media, rate items, and receive recommendations based on their preferences.
 
 ## Features
 
